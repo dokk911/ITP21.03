@@ -1,0 +1,6 @@
+E:\C#\Console2103Dz\Console2103Dz10\bin\Debug\Console2103Dz10.exe.config
+E:\C#\Console2103Dz\Console2103Dz10\bin\Debug\Console2103Dz10.exe
+E:\C#\Console2103Dz\Console2103Dz10\bin\Debug\Console2103Dz10.pdb
+E:\C#\Console2103Dz\Console2103Dz10\obj\Debug\Console2103Dz10.csproj.CoreCompileInputs.cache
+E:\C#\Console2103Dz\Console2103Dz10\obj\Debug\Console2103Dz10.exe
+E:\C#\Console2103Dz\Console2103Dz10\obj\Debug\Console2103Dz10.pdb
